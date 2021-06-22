@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   Phone Number: 403-470-1784
   Email: curtiseck123@hotmail.com
-- Be sure to take a look at my Portfolio right here --> 
+- Be sure to take a look at my Portfolio right here --> file:///C:/Users/CURTI~1.PC-/AppData/Local/Temp/Rar$EXa18360.38823/6c73e3ae-d3a9-11eb-a980-0cc47a792c0a_id_6c73e3ae-d3a9-11eb-a980-0cc47a792c0a.html
 
 <!---
 Curtis-Eck/Curtis-Eck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
